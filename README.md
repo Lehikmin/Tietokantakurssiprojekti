@@ -11,4 +11,7 @@ Projektin vaiheet:
 - Suoritamme SQL-kyselyitä **SQL Server Management Studiossa (SSMS)**, joiden tarkoitus on testata tietokannan toimivuutta ja vastata yrityksen tietotarpeisiin.
 
 ### Tekijät: 
-- [Lehikmin](https://github.com/Lehikmin) & [Elisakatariina](https://github.com/Elisakatariina) 
+- [Lehikmin](https://github.com/Lehikmin) & [Elisakatariina](https://github.com/Elisakatariina)
+  
+
+Tiedostoihin tulossa päivityksiä..
