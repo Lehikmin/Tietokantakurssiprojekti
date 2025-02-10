@@ -12,6 +12,8 @@ Projektin vaiheet:
 
 ### Tekijät: 
 - [Lehikmin](https://github.com/Lehikmin) & [Elisakatariina](https://github.com/Elisakatariina)
+
+  
   
 
-Tiedostoihin tulossa päivityksiä..
+Tiedostoihin tulossa päivityksiä...
